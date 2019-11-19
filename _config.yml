@@ -12,3 +12,12 @@ theme: jekyll-theme-minimal
 
 exclude:
 - README.md
+
+# Site Author
+author:
+  name             : "Dooho, Park a.k.a pakddo"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Place to sip & jot"
+  location         : "Seoul, Republic of Korea"
+  email            : "pakddo@pakddo.net"
+  uri              : "https://pakddo.github.io"
