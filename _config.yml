@@ -5,7 +5,7 @@ title: pakddo.github.io
 
 ### let's use the minima theme (see https://github.com/jekyll/minima)
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-tactile
 
 
 ### exclude the instructions / write-up in the README.md
